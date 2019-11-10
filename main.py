@@ -1,20 +1,20 @@
-
+'''
 # strings
 nombre = 'jo '
 apellido = "santos"
 print(nombre + apellido)
 
-# concatenacion de strings 
+# concatenacion de strings
 
 variable = 'hola ' + 'como estas'
 print(variable)
 variable2 = variable + ' mi nombre es jo'
-print(variable2)
+print(variable2)'''
 
 
-saludo = "HOLAAAA"
+'''saludo = "HOLAAAA"
 
-# dir es una funcion para ver los metodos y propiedades de un objeto  
+ '''# dir es una funcion para ver los metodos y propiedades de un objeto
 print(dir(saludo))
 
 # swapcase es un metodo para hacer que el string se vea en lower case 
@@ -25,14 +25,15 @@ print(saludo.lower())
 camelCase = ""
 snake_case = ""
 
+
 # numeros
 
 # enteros (int)
 
 print(14 + 1)
 
-numer5656565AAA6 = 1
-print(numer5656565AAA6)
+numero = 1
+print(1)
 
 # decimales (float)
 
